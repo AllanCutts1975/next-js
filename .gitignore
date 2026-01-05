@@ -38,3 +38,4 @@ Thumbs.db
 /.next
 /.vs/nextjs-dashboard/FileContentIndex
 /node_modules
+/.env
