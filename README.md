@@ -1,12 +1,5 @@
-<header>
+## Next.js App Router Course - Starter
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-# Introduction to Next.js
-
-</header>
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
