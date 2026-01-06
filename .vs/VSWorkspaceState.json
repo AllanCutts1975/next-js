@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\dashboard",
+    "\\app\\dashboard\\(overview)",
+    "\\app\\dashboard\\invoices",
+    "\\app\\lib",
+    "\\app\\seed",
+    "\\app\\ui",
+    "\\app\\ui\\dashboard",
+    "\\app\\ui\\invoices"
+  ],
+  "PreviewInSolutionExplorer": false
+}
