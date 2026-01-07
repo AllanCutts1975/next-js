@@ -3,13 +3,12 @@
     "",
     "\\app",
     "\\app\\dashboard",
-    "\\app\\dashboard\\(overview)",
-    "\\app\\dashboard\\invoices",
+    "\\app\\dashboard\\invoices\\[id]",
+    "\\app\\dashboard\\invoices\\[id]\\edit",
     "\\app\\lib",
-    "\\app\\seed",
     "\\app\\ui",
-    "\\app\\ui\\dashboard",
     "\\app\\ui\\invoices"
   ],
+  "SelectedNode": "\\app\\ui\\invoices\\edit-form.tsx",
   "PreviewInSolutionExplorer": false
 }
